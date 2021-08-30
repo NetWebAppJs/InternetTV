@@ -119,13 +119,13 @@ footer li {
 }
 
 /* Стили кнопки */
-/*.button{
+.button{
 display: inline-block;
 cursor: pointer; font-size:18px;
 text-decoration:none;
 padding:10px 20px; 
 color:#354251;
-background:#ffff0;
+background:#ffffff;
 border-radius:25px;
 border:2px solid #354251;
 }
@@ -134,4 +134,4 @@ background:#354251;
 color:#ffffff;
 border:2px solid #354251;
 transition: all 0.2s ease;
-}*/
+}
